@@ -1,0 +1,3 @@
+open inwcfunmap.bplaced.net
+user inwcfunmap blubby7
+put "C:/Users/Win7F/Documents/GitHub/postprocAndFriends/postproc/updater/updateScript.lua" "postproc/updater/updateScript.lua"

@@ -1,0 +1,3 @@
+lua clearRemote.lua
+
+pause

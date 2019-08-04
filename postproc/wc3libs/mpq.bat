@@ -1,0 +1,1 @@
+start "" MPQEditor.exe /console
